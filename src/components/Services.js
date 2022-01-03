@@ -20,8 +20,7 @@ const Services = () => {
                         <Card.Body>
                             <Card.Title className='text-center'>Free delivery</Card.Title>
                             <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                                You’ll earn Honey Gold points while you shop, which can be cashed out for free gift cards to Amazon, Target, Home Depot & more.
                             </Card.Text>
                         </Card.Body>
 
@@ -34,8 +33,7 @@ const Services = () => {
                         <Card.Body>
                             <Card.Title className='text-center'>Way To Buy</Card.Title>
                             <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                                Discover a vast selection of wholesale beauty supplies for your business. Sign up now. Reliable, cost-effective purchasing for all.
                             </Card.Text>
                         </Card.Body>
 
@@ -48,8 +46,7 @@ const Services = () => {
                         <Card.Body>
                             <Card.Title className='text-center'>Personal Session</Card.Title>
                             <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                                types of organizations, big & small. Prime Compatible. E-Procurement Integration. Convenient Shipping. Tax Exempt Purchasing.
                             </Card.Text>
                         </Card.Body>
 
@@ -62,8 +59,7 @@ const Services = () => {
                         <Card.Body>
                             <Card.Title className='text-center'>Gift Voucher</Card.Title>
                             <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                                Vouchers let you show your customers you care. Get more control over how much to give and how the voucher can be used.
                             </Card.Text>
                         </Card.Body>
 

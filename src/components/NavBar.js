@@ -3,12 +3,14 @@ import { Button, Container, FormControl, InputGroup, Nav, Navbar, NavDropdown } 
 
 const NavBar = () => {
     return (
-        <Navbar bg="dark" variant="dark" expand="lg">
+        <Navbar bg="light" variant="light" expand="lg">
             <Container>
-                <Navbar.Brand href="#home">Team Project</Navbar.Brand>
+                <Navbar.Brand href="#home">
+                    <img src="https://cdn.shopify.com/s/files/1/0301/7274/1770/files/Logo_07018bb2-eaf1-4479-a80d-98c3a1c9187b_large.png?v=1610088701" alt="" />
+                </Navbar.Brand>
                 <InputGroup className="m-3 w-40px">
                     <FormControl
-                        placeholder="Recipient's username"
+                        placeholder="Product Name"
                         aria-label="Recipient's username"
                         aria-describedby="basic-addon2"
                     />

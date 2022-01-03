@@ -21,8 +21,7 @@ const LatestProducts = () => {
                             <Card.Body>
                                 <Card.Title className='title'>Pencil Eyeliner</Card.Title>
                                 <Card.Text>
-                                    This is a longer card with supporting text below as a natural
-                                    lead-in to additional content. This content is a little bit longer.
+                                    Discover our best long-lasting eyeliners by Maybelline. From gel to liquid to pencil, you can create perfect eye makeup looks with a waterproof Maybelline ...
                                 </Card.Text>
                             </Card.Body>
                         </Card>
@@ -33,8 +32,7 @@ const LatestProducts = () => {
                             <Card.Body>
                                 <Card.Title className='title'>Dior Lip Glow</Card.Title>
                                 <Card.Text>
-                                    This is a longer card with supporting text below as a natural
-                                    lead-in to additional content. This content is a little bit longer.
+                                    Shop the Dior Official Site & Enjoy Complimentary Samples and Shipping with Any Order. Dior Lip Glow is Essential for Radiantly Enhanced Lips with Universal .
                                 </Card.Text>
                             </Card.Body>
                         </Card>
@@ -45,8 +43,7 @@ const LatestProducts = () => {
                             <Card.Body>
                                 <Card.Title className='title'>Collagen Spray</Card.Title>
                                 <Card.Text>
-                                    This is a longer card with supporting text below as a natural
-                                    lead-in to additional content. This content is a little bit longer.
+                                    DHC's Super Collagen Mist is a collagen infused mist to hydrate after cleansing, set your makeup, or refresh hydration throughout the day. Benefits.Hydrate,
                                 </Card.Text>
                             </Card.Body>
                         </Card>

@@ -13,7 +13,7 @@ const Products = () => {
                     <div className="col-md-6 mt-2 text-center">
                         <h4>THE PRODUCTS</h4>
                         <h2 className='title-left'>All About Fabulous</h2>
-                        <p className='m-5'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, to make a type specimen book.</p>
+                        <p className='m-5'>Halsey is the latest celebrity to launch her own beauty brand: About Face. Her products are both playful and electrifying, but are they worth every penny? E! News has the scoop!</p>
                         <div className='row mx-5'>
                             <div className='col-md-6'>
                                 <ul>

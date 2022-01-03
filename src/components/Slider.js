@@ -19,7 +19,7 @@ const Slider = () => {
                     <div className="col-md-6 mt-5">
                         <p className='slider-left'>Beauty</p>
                         <h1>Super Natural</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni inventore quia placeat a. Iusto error saepe adipisci cupiditate suscipit repellat!</p>
+                        <p>Beauty is commonly described as a feature of objects that makes these objects pleasurable to perceive. Such objects include landscapes, sunsets, humans and works of art. Beauty, together with art and taste, is the main subject of aesthetics, one of the major branches of philosophy.</p>
                         <button className='text-center btn btn-center'>Shop Now</button>
                     </div>
                     <div className="col-md-6 mt-5">

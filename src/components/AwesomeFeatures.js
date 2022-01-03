@@ -22,8 +22,7 @@ const AwesomeFeatures = () => {
                                 <Card.Body>
                                     <Card.Title className='title'>Highlighter Makeup</Card.Title>
                                     <Card.Text>
-                                        This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.
+                                        Discover our best long-lasting eyeliners by Maybelline. From gel to liquid to pencil, you can create perfect eye makeup looks with a waterproof Maybelline ...
                                     </Card.Text>
                                 </Card.Body>
                             </Card>
@@ -34,8 +33,7 @@ const AwesomeFeatures = () => {
                                 <Card.Body>
                                     <Card.Title className='title'>Glossy Makeup</Card.Title>
                                     <Card.Text>
-                                        This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.
+                                        Shop the Dior Official Site & Enjoy Complimentary Samples and Shipping with Any Order. Dior Lip Glow is Essential for Radiantly Enhanced Lips with Universal .
                                     </Card.Text>
                                 </Card.Body>
                             </Card>
@@ -46,8 +44,7 @@ const AwesomeFeatures = () => {
                                 <Card.Body>
                                     <Card.Title className='title'>Matte Makeup</Card.Title>
                                     <Card.Text>
-                                        This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.
+                                        DHC's Super Collagen Mist is a collagen infused mist to hydrate after cleansing, set your makeup, or refresh hydration throughout the day. Benefits.Hydrate,
                                     </Card.Text>
                                 </Card.Body>
                             </Card>
@@ -58,8 +55,7 @@ const AwesomeFeatures = () => {
                                 <Card.Body>
                                     <Card.Title className='title'>Semi Makeup</Card.Title>
                                     <Card.Text>
-                                        This is a longer card with supporting text below as a natural
-                                        lead-in to additional content. This content is a little bit longer.
+                                        Shop the Dior Official Site & Enjoy Complimentary Samples and Shipping with Any Order. Dior Lip Glow is Essential for Radiantly Enhanced Lips with Universal .
                                     </Card.Text>
                                 </Card.Body>
                             </Card>

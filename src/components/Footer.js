@@ -9,7 +9,7 @@ const Footer = () => {
                 <Container className='footer g-5 my-5px'>
                     <Row>
                         <Col md={3} sm={6}>
-                            <h3>Contact information</h3>
+                            <h3>Contact </h3>
                             <p>Location: 3005 Fabulous cosmetic center, USA</p>
                             <p>Contact Us: 983455625</p>
                             <p>Email: fabulouscosmetic@yahoo.com</p>
@@ -40,7 +40,7 @@ const Footer = () => {
                         </Col>
                     </Row>
                 </Container>
-                <div style={{ backgroundColor: "teal", marginTop: "10px" }} className='text-center text-white p-3'>
+                <div style={{ backgroundColor: "darksalmon", marginTop: "10px" }} className='text-center text-white p-3'>
                     Copyright@sumaiamannan2013@gmail.com
                 </div>
             </footer>
