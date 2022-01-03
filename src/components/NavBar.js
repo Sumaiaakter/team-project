@@ -1,5 +1,6 @@
 import React from 'react';
 import { Button, Container, FormControl, InputGroup, Nav, Navbar, NavDropdown } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 
 const NavBar = () => {
     return (
@@ -21,15 +22,16 @@ const NavBar = () => {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ms-auto">
-                        <Nav.Link href="#home">Home</Nav.Link>
-                        <Nav.Link href="#link">Products</Nav.Link>
-                        <Nav.Link href="#link">Cart</Nav.Link>
+
+                        <Nav.Link as={Link} to="home">Home</Nav.Link>
+                        <Nav.Link as={Link} to="#home/products">Products</Nav.Link>
+                        <Nav.Link as={Link} to="about">About</Nav.Link>
+                        <Nav.Link as={Link} to="cart">Cart</Nav.Link>
                         <NavDropdown title="Dropdown" id="basic-nav-dropdown">
-                            <NavDropdown.Item href="#action/3.1">Register</NavDropdown.Item>
-                            <NavDropdown.Item href="#action/3.2">Login</NavDropdown.Item>
-                            <NavDropdown.Item href="#action/3.3">Logout</NavDropdown.Item>
-                            <NavDropdown.Divider />
-                            <NavDropdown.Item href="#action/3.4">About us</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="register">Register</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="login">Login</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="logout">Logout</NavDropdown.Item>
+
                         </NavDropdown>
                     </Nav>
                 </Navbar.Collapse>
